@@ -45,4 +45,4 @@ Are you a music lover or a data enthusiast? What if you could combine both? A Po
 
 But here’s a secret: the most challenging part for many is writing the complex calculations, known as DAX measures, that power these insights. This is where a game-changing Power BI update comes in. Forget creating measures one by one. This guide will show you how to leverage the DAX Query View to build your entire measure library in a single click, saving you hours of work.
 
- snapshot of dashboard:
+ snapshot of dashboard: https://github.com/sahanacm/spotify-dashbooard-Analysis-in-powerbi/blob/main/Screenshot%202025-09-30%20124616.png
